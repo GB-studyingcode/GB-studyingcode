@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Gia Bao 👋  
+### Supply Chain Data Analyst | Python • SQL • Power BI • Forecasting • Optimization
 
-<!--
-**GB-studyingcode/GB-studyingcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Logistics and Supply Chain Management graduate with hands-on experience in data analytics, purchasing operations, forecasting, business intelligence, and supply chain optimization.
 
-Here are some ideas to get you started:
+My work focuses on turning business and operational data into actionable insights for inventory planning, logistics performance, procurement efficiency, pricing control, and sales strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔎 What I Work On
+
+- Supply Chain Analytics & Logistics KPI Tracking  
+- Demand Forecasting & Sales Prediction  
+- Inventory Optimization & Simulation  
+- Power BI Dashboarding & Business Intelligence  
+- Route, Cost, and Network Optimization  
+- Customer Segmentation, RFM, and Cohort Analysis  
+
+---
+
+## 🧰 Technical Skills
+
+**Programming & Analytics:** Python, Pandas, NumPy, Scikit-learn, SQL  
+**Visualization & BI:** Power BI, DAX, Excel, Matplotlib, Seaborn  
+**Optimization:** Gurobi, Pyomo, OR-Tools  
+**Machine Learning:** Regression, Forecasting, Classification, Clustering  
+**Supply Chain:** Procurement, Inventory Planning, Logistics, Lead Time, Cost Analysis  
+
+---
