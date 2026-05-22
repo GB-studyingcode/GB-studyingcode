@@ -27,3 +27,14 @@ My work focuses on turning business and operational data into actionable insight
 **Supply Chain:** Procurement, Inventory Planning, Logistics, Lead Time, Cost Analysis  
 
 ---
+## 📌 Career Direction
+
+I am seeking opportunities in Supply Chain Data Analytics, Business Intelligence, Logistics Analytics, and Operations Analytics where I can combine data, business thinking, and optimization to improve operational efficiency.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Gia Bao Tran Cao](https://www.linkedin.com/in/bao-tran-cao-gia/)
+- GitHub: [GB-studyingcode](https://github.com/GB-studyingcode)
+- Email: tcgbao203@gmail.com
